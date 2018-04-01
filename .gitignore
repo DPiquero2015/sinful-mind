@@ -1,0 +1,17 @@
+# exclude all
+/*
+
+# project files
+!Sinful.sln
+!Sinful.uproject
+
+# directories
+!Binaries/
+!Config/
+!Content/
+!Raw/
+!Source/
+
+# include git files
+!.gitattributes
+!.gitignore
